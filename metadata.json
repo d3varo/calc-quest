@@ -1,0 +1,6 @@
+{
+  "name": "Calc Quest - Petualangan Kalkulus",
+  "description": "Game edukasi kalkulus interaktif topik Limit, Turunan, dan Integral dengan prinsip learning by playing, sistem reward istirahat 5 menit, dan visual hand-drawn kontekstual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
